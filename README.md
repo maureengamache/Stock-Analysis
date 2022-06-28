@@ -16,7 +16,7 @@ When analyzing all stocks in the data set in 2017, it appears all but one stock,
 ![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
 ### Analysis 2018
- 
+ When analyzing all stocks in the data set in 2018, it appears all but two stocks, "ENPH" and "RUN" , provided non-profitable returns. Amoung the non-profitable stocks it is important to note that three out of the four profitable stocks in 2017 were no longer profitable in 2018, including "DQ", "FSLR" and "SEDG". It is also important to note that  in 2017, "RUN" was not profitable, however in 2018 it provided an 84% return. The only consistently profitable stock across both years is "ENPH", see *Figure 1* above and *Figure 2* below.
 
 *Figure 2*
 ![VBA_Challenge_2018](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
