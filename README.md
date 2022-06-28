@@ -17,6 +17,9 @@ When analyzing all stocks in the data set in 2017, using the refactored code, it
 
 ![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
+*Figure 1a*
+
+*Figure 1b*
 
 
 
