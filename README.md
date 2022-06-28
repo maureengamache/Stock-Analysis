@@ -9,7 +9,7 @@ Client Steve wants to do more research for his parents related to the best stock
 ## Analysis
 
 ### Analysis 2017
-When analyzing all stocks in the data set in 2017, it appears all but 1 stock "TERP" , provided profitable returns. Amoung the profitable stocks there were four that returned over 100%. Those stocks were "DQ", "ENPH", "FSLR" and "SEDG", with the highest performing stock being "DQ", see *Figure 1* below. Now, in our previous anlysis of year over year, comparing 2017 to 2018, it was noted that the "DQ" stock did not perform as well in 2018, and in fact had a significant decrease in return, see *Figure 2* below in Analysis 2018. 
+When analyzing all stocks in the data set in 2017, it appears all but one stock, "TERP" , provided profitable returns. Amoung the profitable stocks there were four stocks that returned over 100%. Those stocks were "DQ", "ENPH", "FSLR" and "SEDG", with the highest performing stock being "DQ", see *Figure 1* below. Now, in our previous anlysis of year over year, comparing 2017 to 2018, it was noted that the "DQ" stock did not perform as well in 2018, and in fact had a significant decrease in return, see *Figure 2* below in Analysis 2018.
 
 
 *Figure 1*
