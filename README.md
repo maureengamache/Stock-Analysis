@@ -46,8 +46,6 @@ When analyzing all stocks in the data set in 2017, using the refactored code, it
  
 
 ## Results
-In conclusion, the best stock for Steve's parents to invest in given the current dataset would be stock "ENPH", as it was profitable across both years, 2017 and 2018. When runinng the refactored code it was noted that both the 2017 and the 2018 analysis took less time to run (i.e. were faster in producing the output analysis). 
-What are the advantages or disadvantages of refactoring code?
+In conclusion, the best stock for Steve's parents to invest in given the current dataset would be stock "ENPH". "ENPH" is the best stock to invest in as it was profitable across both years, 2017 and 2018. Also, when runinng the refactored code it was noted that both the 2017 and the 2018 analysis took less time to run (i.e. were faster in producing the output analysis) by approximately 0.6 seconds. Therefore, it is a clear advantage that faster runtimes are produced when refactoring code original code. However, a disadvantage of refactoring code is the concept of "re-creating the wheel". Meaining that the developer has to find a new way to do the same thing that the orginal code did, but more efficiently. The pros and cons of refactoring the original VBA code are that more data can be included in the future when the refactored code is used, in addition to fast run times, these are the pros. The cons of refactoring code are the time commitment and the extensive knowledge of VBA required to create and Debug anything in the refactored code that is not working properly.   
 
-How do these pros and cons apply to refactoring the original VBA script?
 
