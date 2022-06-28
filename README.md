@@ -20,6 +20,7 @@ When analyzing all stocks in the data set in 2017, it appears all but one stock,
 
 *Figure 2*
 ![VBA_Challenge_2018](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
+
  
 
 ## Results
