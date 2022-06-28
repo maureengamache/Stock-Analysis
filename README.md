@@ -11,7 +11,7 @@ Client Steve wants to do more research for his parents related to the best stock
 ### Analysis 2017
 When analyzing all stocks in the data set in 2017, using the refactored code, it appears all but one stock, "TERP" , provided profitable returns. Amoung the profitable stocks there were four stocks that returned over 100%. Those stocks were "DQ", "ENPH", "FSLR" and "SEDG", with the highest performing stock being "DQ", see *Figure 1* below. Now, in our previous anlysis of year over year, comparing 2017 to 2018, it was noted that the "DQ" stock did not perform as well in 2018, and in fact had a significant decrease in return, see *Figure 2* below in Analysis 2018. Also note *Figures 1a-b*, the runtime for the previous non-refactored code in *Figure 1a*, and the refactored code runtime in *Figure 1b*. It is clear that the refactored code is more efficient , by taking less time to run.
 
-##Refactored 2017 All Stock Analysis Data
+## Refactored 2017 All Stock Analysis Data
 
 *Figure 1* 
 ![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
