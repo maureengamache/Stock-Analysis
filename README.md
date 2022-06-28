@@ -19,7 +19,7 @@ Client Steve wants to do more research for his parents related to the best stock
  
 
 *Figure 2*
-![Outcomes_vs_Goals](https://github.com/maureengamache/Module-1-Challenge/blob/main/Outcomes_vs_Goals.png)
+![VBA_Challenge_2018](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
  
 
 ## Results
