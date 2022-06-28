@@ -1,7 +1,7 @@
 # Stock Analysis
 
 ## Overview of Project
-In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
+Client Steve wants to do more research for his parents, related to the best stock in which to invest. He was pleased with the analysis done on the provided dataset, however now he wants to expand the dataset to include the entire stock market over the last few years. Given this new task, we will need to refactor our code to be able to run the the stock analysis code faster, and for it to be able to include more data.
 
 ### Purpose 
  The purpose of this challenge was to determine whether refactoring previously written code successfully makes the VBA script run faster.
@@ -9,6 +9,7 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
 ## Analysis
 
 ### Analysis 2017
+
 
 
 *Figure 1*
