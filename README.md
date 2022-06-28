@@ -9,7 +9,7 @@ Client Steve wants to do more research for his parents related to the best stock
 ## Analysis
 
 ### Analysis 2017
-When analyzing all stocks in the data set in 2017, using the refactored code, it appears all but one stock, "TERP" , provided profitable returns. Amoung the profitable stocks there were four stocks that returned over 100%. Those stocks were "DQ", "ENPH", "FSLR" and "SEDG", with the highest performing stock being "DQ", see *Figure 1* below. Now, in our previous anlysis of year over year, comparing 2017 to 2018, it was noted that the "DQ" stock did not perform as well in 2018, and in fact had a significant decrease in return, see *Figure 2* below in Analysis 2018. Also note *Figures 1a-b*, the runtime for the previous non-refactored code in *Figure 1a*, and the refactored code runtime in *Figure 1b*. It is clear that the refactored code is more efficient , by taking less time to run.
+When analyzing all stocks in the data set in 2017, using the refactored code, it appears all but one stock, "TERP" , provided profitable returns. Amoung the profitable stocks there were four stocks that returned over 100%. Those stocks were "DQ", "ENPH", "FSLR" and "SEDG", with the highest performing stock being "DQ", see *Figure 1* below. Now, in our previous anlysis of year over year, comparing 2017 to 2018, it was noted that the "DQ" stock did not perform as well in 2018, and in fact had a significant decrease in return, see *Figure 2* below in Analysis 2018. Also note *Figures 1a-b*, the runtime for the previous original code in *Figure 1a*, and the refactored code runtime in *Figure 1b*. It is clear that the refactored code is more efficient , by taking less time to run.
 
 #### Refactored 2017 All Stock Analysis Data
 
@@ -17,11 +17,11 @@ When analyzing all stocks in the data set in 2017, using the refactored code, it
 
 ![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
-*Figure 1a*
+*Figure 1a*-Original Code
 
 ![VBA_Challenge_2017_Runtime_NonRefactored](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017_Runtime_NonRefactored.png)
 
-*Figure 1b*
+*Figure 1b*-Refactored Code
 
 ![VBA_Challenge_2017RuntimeRefactor](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017RuntimeRefactor.png)
 
@@ -30,10 +30,19 @@ When analyzing all stocks in the data set in 2017, using the refactored code, it
 ### Analysis 2018
  When analyzing all stocks in the data set in 2018, using the refactored code, it appears all but two stocks, "ENPH" and "RUN" , provided non-profitable returns. Amoung the non-profitable stocks it is important to note that three out of the four profitable stocks in 2017 were no longer profitable in 2018, including "DQ", "FSLR" and "SEDG". It is also important to note that  in 2017, "RUN" was not profitable, however in 2018 it provided an 84% return. The only consistently profitable stock across both years is "ENPH", see *Figure 1* above and *Figure 2* below. Also note *Figures 2a-b*, the runtime for the previous non-refactored code in *Figure 2a*, and the refactored code runtime in *Figure 2b*. It is clear that the refactored code is more efficient , by taking less time to run.
 
-##Refactored 2018 All Stock Analysis Data
+## Refactored 2018 All Stock Analysis Data
+
 *Figure 2*
+
 ![VBA_Challenge_2018](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
 
+*Figure 2a*-Original Code
+
+![VBA_Challenge_2018_Runtime_NonRefactored](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2018_Runtime_NonRefactored.png)
+
+*Figure 2b*-Refactored Code
+
+![VBA_Challenge_2018RuntimeRefactor](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2018RuntimeRefactor.png)
  
 
 ## Results
